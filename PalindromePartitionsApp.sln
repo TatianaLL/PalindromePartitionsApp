@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePartitionsApp", "PalindromePartitionsApp\PalindromePartitionsApp.csproj", "{0F81E838-5876-4E68-BBE5-988D28A4D1C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F81E838-5876-4E68-BBE5-988D28A4D1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F81E838-5876-4E68-BBE5-988D28A4D1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F81E838-5876-4E68-BBE5-988D28A4D1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F81E838-5876-4E68-BBE5-988D28A4D1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED352DC3-465F-40EC-A37E-DEACF58C045B}
+	EndGlobalSection
+EndGlobal
